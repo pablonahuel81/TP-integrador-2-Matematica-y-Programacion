@@ -12,3 +12,5 @@ Trabajo Practico Integrador 2 Matematica y Programacion
 
 grupo alumnos: Beauvallet Pablo Nahuel,
                Barraza Casal Iago
+
+https://www.youtube.com/watch?v=IJz8VyV8KcI
