@@ -10,5 +10,5 @@ Comisión: 10
 
 Trabajo Practico Integrador 2 Matematica y Programacion
 
-grupo alumnos: Beauvallet Pablo Nahuel
+grupo alumnos: Beauvallet Pablo Nahuel,
                Barraza Casal Iago
